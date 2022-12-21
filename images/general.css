@@ -1,0 +1,170 @@
+body {  font-family: Tahoma, Verdana, Arial, "Times New Roman"; font-size: 11px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; background-repeat: repeat; text-decoration: none}
+table {  font-family: Tahoma, Verdana, Arial, "Times New Roman"; font-size: 11px}
+.main {  border-color: black #000000 #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.sidebar {  border: #000099 solid; border-width: 0px 0px 0px 1px}
+.menuitem {  color: #336600; text-decoration: none}
+.sidebarmenuitem {  padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: #666666 solid; border-width: 0px 0px 0px 1px}
+input {  font-family: Tahoma, Verdana, Arial, "Times New Roman"; font-size: 11px; text-decoration: none}
+.leer {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px}
+.cuadroml {  background-color: #FFFFFF; border: 1px #003366 solid}
+select {  font-family: Tahoma, Verdana, Arial, "Times New Roman"; font-size: 11px}
+.menubar {  background-color: #F0F0F0; border-color: black #666666 black black; border-style: solid; border-top-width: 0px; border-right-width: 1px; border-bottom-width: 0px; border-left-width: 0px}
+.linea {  border-color: black black #006600; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 1px; border-left-width: 0px}
+textarea {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px}
+.cuadro {  background-color: #000099; border: 1px #000099 solid; color: #FFFFFF; font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none; font-weight: bold}
+.main2 {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: black;
+	border-right-color: black;
+	border-bottom-color: black;
+	border-left-color: black;
+; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 1px
+}
+.menu {
+	padding-right: 2px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-bottom-color: #FFFFFF;
+	background-color: #000098;
+}
+.linea2 { border-color: #006600 black; border-style: solid; border-top-width: 1px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px}
+.cuadro2 {  border: #000099 double; border-width: 0px 1px 1px}
+.irpf {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #003399; font-weight: bold; text-decoration: none}
+.cuadro3 {  border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.leer2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px ; color: #666666}
+/*----------------------------------------------------------------*/
+#centro-cima{
+    width:449;
+    border:0; 
+    cellpadding:0;
+    cellspacing:0;
+}
+/*centro-cima-esquerda*/
+#centro-cima-esquerda{
+    float: left;
+}
+#tradutor{
+    width: 131px;
+    margin-left: 3px;
+    margin-top: 13px;
+}
+#detran{
+    width: 131px;
+    margin-left: 3px;
+    margin-top: 55px;
+}
+#previsao{
+    width: 131px;
+    margin-left: 3px;
+    margin-top: 40px;
+}
+.tit-newsl{
+    float: left;
+}
+.fundo-targas-esq{
+    width: 112px;
+    height: 19px;
+    background: EBEBEB;
+    color: #000099;
+    font-weight: bold;
+    float: left;
+    margin-bottom: 5px;
+}
+.clear{
+    clear: both;
+}
+/*FIM CENTRO-CIMA-ESQUERDA*/
+/*CENTRO-CIMA-CIMA*/
+#centro-cima-cima{
+}
+.img-planos{
+  width: 176px;
+height: 130px;
+border: 0px;
+margin-left: 11px;
+}
+.planos-centro{
+    
+    margin-top: 15px;
+}
+/*FIM CENTRO-CIMA-CIMA*/
+/*CENTRO-CIMA-DIREITA*/
+.fundo-targas-dir{
+    width: 98px;
+    height: 19px;
+    background: #EBEBEB;
+    color: #000099;
+    font-weight: bold;
+    float: left;
+    margin-bottom: 5px;
+}
+#centro-cima-direita{
+    float: right;
+}
+#ultimas-noticias{
+    width: 118px;
+    margin-left: 3px;
+    margin-top: 13px;
+}
+#loterias{
+    width: 118px;
+    margin-left: 3px;
+    margin-top: 13px;
+}
+#ass-tec{
+    margin-top: 15px;
+}
+#img-ass{
+    width: 444px;
+    height: 100px;
+    border: 0px;
+}
+/*FIM CENTRO-CIMA-DIREITA*/
+#buscar{
+    position: absolute;
+    z-index: 9999;
+    margin-left: 17.8%;
+    margin-top: 74px;
+    width: 291px; 
+    height: 24px;
+}
+#img_google{
+   width: 61px;
+border: 0px;
+margin-top: 1px;
+}
+#pesquisa_google{
+   margin-top: 6px;
+}
+
+#face{
+float: left;
+border-radius: 10px;
+width: 21px;
+margin-top: 3px;
+}
+/*
+     FILE ARCHIVED ON 07:12:31 Oct 05, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:51:46 Dec 20, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 2445.33
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.129
+  cdx.remote: 0.095
+  esindex: 0.011
+  LoadShardBlock: 90.77 (3)
+  PetaboxLoader3.datanode: 394.551 (4)
+  CDXLines.iter: 17.913 (3)
+  load_resource: 375.483
+  PetaboxLoader3.resolve: 43.048
+*/

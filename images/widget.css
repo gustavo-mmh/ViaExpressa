@@ -1,0 +1,305 @@
+/* tipo-1 200px */
+div.tipo-1#cp {width:200px; height:auto; float:left;}
+div.tipo-1#cp a {width:100%; display:block; text-align:left; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold; line-height:normal; padding:0; margin:0;}
+div.tipo-1#cp a:hover {text-decoration:underline;}
+div.tipo-1#cp p {width:184px; margin:5px 8px 0 8px; _margin:3px 8px 0 8px; font-family:arial, helvetica; font-size:11px;}
+div.tipo-1#cp p.nresult {width:184px; background:#fff; margin:7px 8px 5px 8px; _margin:5px 8px 5px 8px; font-family:arial, helvetica; font-size:11px;}
+div.tipo-1#cp div.topo {width:200px; height:31px; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-1_topo.png) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-1_topo.gif) no-repeat;}
+div.tipo-1#cp div.topo h2{height:31px; width:auto; float:left; margin:0;}
+div.tipo-1#cp div.topo h3{width:90px; height:auto; font-family:Tahoma; font-size:10px; font-weight:bold; text-transform:uppercase; text-align:right; float:right; margin:3px 8px 0 0; _margin-right:5px;}
+div.tipo-1#cp div.topo h3 a{text-align:right; font-size:10px; font-family:Tahoma;}
+div.tipo-1#cp div.ct {width:200px; height:auto; clear:both; float:left; margin:0; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-1_conteudo.png) repeat-y;}
+div.tipo-1#cp div.b {width:200px; height:38px; clear:both; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-1_base.png) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-1_base.gif) no-repeat;}
+div.tipo-1#cp div.b a.dot {font-size:10px; padding-left:8px; margin:6px 0 0 10px; _margin-left:6px; font-family:tahoma; float:left; font-weight:bold; text-align:left;}
+div.tipo-1#cp div.b a {font-size:9px; color:#444444; margin:6px 0 0 0; text-align:center; font-family:tahoma; float:left; font-weight:normal;}
+
+
+/* tipo-2 400px */
+div.tipo-2#cp {width:400px;}
+div.tipo-2#cp div.ct {width:400px; height:auto; clear:both; float:left; margin:0; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-2_conteudo.png) repeat-y;}
+div.tipo-2#cp p {width:88px; margin:7px 6px 5px 6px; _margin:7px 5px 5px 5px; padding:0; float:left; font-family:arial, helvetica; font-size:11px;}
+div.tipo-2#cp p.nresult {width:380px; text-align:center; background:#fff; margin:7px 6px 0 6px; _margin:7px 5px 0 5px; padding:8px 0 0 0;}
+div.tipo-2#cp a {width:auto; display:block; text-align:left; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold; line-height:normal; padding:0; margin:0;}
+div.tipo-2#cp a:hover {text-decoration:underline;}
+div.tipo-2#cp div.topo {width:400px; height:31px; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-2_topo.gif) no-repeat;}
+div.tipo-2#cp div.topo h2{height:31px; width:auto; float:left; margin:0;}
+div.tipo-2#cp div.topo h3{width:90px; height:auto; font-family:Tahoma; font-size:10px; font-weight:bold; text-transform:uppercase; text-align:right; float:right; margin:3px 8px 0 0; _margin-right:5px;}
+div.tipo-2#cp div.topo h3 a{text-align:right; font-size:10px; font-family:Tahoma;}
+div.tipo-2#cp div.b {width:400px; height:49px; clear:both; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-2_base.gif) no-repeat;}
+div.tipo-2#cp div.b a.dot {width:350px; font-size:10px; padding-left:8px; margin:17px 0 0 10px; _margin-left:6px; font-family:tahoma; float:left; font-weight:bold;}
+div.tipo-2#cp div.b a {font-size:9px; color:#444444; margin:6px 0 0 0; padding:0 0 0 144px; font-family:tahoma; float:left; font-weight:normal;}
+
+/* tipo-3 100% */
+div.tipo-3#cp {width:100%; height:auto; min-width:300px;display:table;}
+div.tipo-3#cp a {display:block; text-align:left; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold; line-height:normal; padding:0; margin:0;}
+div.tipo-3#cp a:hover {text-decoration:underline;}
+div.tipo-3#cp p {margin:0; padding:0; font-family:arial, helvetica; font-size:11px;}
+div.tipo-3#cp div.topo {width:100%; height:31px; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-3_topol.png) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-3_topol.gif) no-repeat;}
+div.tipo-3#cp div.topo div.bg {height:31px; width:100%; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-3_topor.png) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-3_topor.gif) no-repeat; background-position:right; float:right;}
+div.tipo-3#cp div.topo h2 {height:31px; width:auto; float:left; margin:0;}
+div.tipo-3#cp div.topo h3 {width:90px; height:auto; font-family:Tahoma; font-size:10px; font-weight:bold; text-transform:uppercase; text-align:right; float:right; margin:3px 8px 0 0; _margin-right:5px;}
+div.tipo-3#cp div.topo h3 a {text-align:right; font-size:10px; font-family:Tahoma;}
+div.tipo-3#cp div.ct {width:100%; height:auto; background:#fff url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg-ct.gif) left repeat-y; clear:both; float:left; margin:0;  padding:0; display:block;}
+div.tipo-3#cp div.ctr {background:#fff url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg-ct.gif) right repeat-y; margin-left:8px; padding:8px 8px 8px 0;}
+div.tipo-3#cp div.b {width:100%; height:38px; clear:both; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-3_baser.png) top right no-repeat; float:left;}
+div.tipo-3#cp div.b div.bg {width:100%; height:29px; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-3_basel.gif) no-repeat; background-position:left top; float:right; text-align:center; }
+div.tipo-3#cp div.b a.dot {width:auto; font-size:10px; padding-left:8px; margin:6px 0 0 6px; _margin-left:4px; font-family:tahoma; font-weight:bold; text-align:left;}
+div.tipo-3#cp div.b a {width:128px; height:15px; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg_tipo-3_link.gif) no-repeat; padding:2px 0 0 10px; font-size:9px; color:#444444; margin:auto; font-family:tahoma; clear:both; font-weight:normal;}
+
+/* CLIC */
+div.clic#cp h2 a {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/logo-widget-clic.jpg) no-repeat !important; background-position:8px 0 !important; text-indent:-9999px !important; width:90px !important; height:100% !important; display:block !important;float:left !important;}
+div.clic#cp div.b a.dot {color:#000000 !important; background:transparent !important;  padding:0 !important; margin:0 auto 8px !important; text-align:center !important; display:block !important;}
+div.clic.tipo-3#cp div.b div.bg a.dot { background-position:0 7px !important;}
+
+div.clic#cp div.topo div.bg h3 {color:#fff!important; text-transform:none; font-size:11px; font-family:arial; width:80px;}
+div.clic#cp div.topo div.bg h3 a {color:#3C007D!important;}
+div.clic#cp div.ct p a {color:#303030!important;}
+div.clic#cp div.ct p {color:#646464;}
+
+div#cp.clic div.topo {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg-widget-clic.jpg) top left repeat-x !important; height:38px !important; }
+div#cp.clic div.topo h2 {height:38px !important;}
+div#cp.clic div.b {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg-widget-clic-bottom.jpg) bottom left repeat-x !important; text-align:center !important; height:38px !important;}
+
+div#cp.clic div.b a {color:#ffcc00 !important; display:block !important; background:#000 !important; float:none !important; text-align:center !important; padding:2px 5px !important; width:120px !important; margin:0 auto !important; height:auto !important;}
+div#cp.clic  {background:#ecebdf !important;}
+div#cp.clic div.ct { margin-top:3px !important; margin-bottom:4px !important; }
+div#cp.tipo-1.clic div.ct {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/bg-widget-clic-corpo.jpg) top center repeat-y !important;}
+
+div#cp.clic div.topo div.bg, div#cp.clic div.b div.bg {background:transparent !important;}
+
+
+
+/* ESPORTES */
+div.esp#cp h2 a {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/icon_esportes.png) no-repeat; background-position:10px 6px; text-indent:-9999px; width:90px; height:100%; display:block;float:left;}
+div.esp#cp div.b a.dot {color:#000000; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; background-position:0 5px;}
+div.esp.tipo-3#cp div.b div.bg a.dot {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat!important; background-position:0 7px;}
+
+div.esp#cp div.topo div.bg h3 {color:#cb8c01;}
+div.esp#cp div.topo div.bg h3 a {color:#cb8c01;}
+div.esp#cp div.ct p a {color:#cb8c01!important;}
+
+/* JORNAIS */
+div.tipo-1#cp h2, div.tipo-2#cp h2, div.tipo-3#cp h2 {background:none; border:0; padding:0;}
+
+/* ZH */
+div.zh#cp h2 a {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/logo_zh_peq2.png) no-repeat; background-position:10px 8px; text-indent:-9999px; width:90px; height:100%; display:block;float:left;}
+div.zh#cp div.b a.dot {color:#000000; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; background-position:0 5px;}
+div.zh.tipo-3#cp div.b div.bg a.dot {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat!important; background-position:0 7px;}
+
+div.zh#cp div.topo div.bg h3 {color:#004A8D;}
+div.zh#cp div.topo div.bg h3 a {color:#004A8D;}
+div.zh#cp div.ct p a {color:#004A8D!important;}
+
+/* PIONEIRO */
+div.pi#cp h2 a {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/icon_pioneiro.png) no-repeat; background-position:10px 8px; text-indent:-9999px; width:90px; height:100%; display:block;float:left;}
+div.pi#cp div.b a.dot {color:#000000; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; background-position:0 5px;}
+div.pi.tipo-3#cp div.b div.bg a.dot {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat!important; background-position:0 7px;}
+
+div.pi#cp div.topo div.bg h3 {color:#28616c;}
+div.pi#cp div.topo div.bg h3 a {color:#28616c;}
+div.pi#cp div.ct p a {color:#28616c!important;}
+
+/* DC */
+div.dc#cp h2 a {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/logo_dc_peq2.png) no-repeat; background-position:9px 8px; text-indent:-9999px; width:95px; height:100%; display:block;float:left;}
+div.dc#cp div.b a.dot {color:#000000; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; background-position:0 5px;}
+div.dc.tipo-3#cp div.b div.bg a.dot {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-dc.gif) no-repeat!important; background-position:0 7px;}
+
+div.dc#cp div.topo div.bg h3 {color:#004A8D;}
+div.dc#cp div.topo div.bg h3 a {color:#004A8D;}
+div.dc#cp div.ct p a {color:#004A8D!important;}
+
+/* AN */
+div.an#cp h2 a {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/logo_an_peq2.png) no-repeat; background-position:5px 4px; text-indent:-9999px; width:95px; height:100%; display:block;float:left;}
+div.an#cp div.b a.dot {color:#000000; background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-zh.gif) no-repeat; background-position:0 5px;}
+div.an.tipo-3#cp div.b div.bg a.dot {background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-an.gif) no-repeat; _background:url(/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/list-an.gif) no-repeat!important; background-position:0 7px;}
+
+div.an#cp div.topo div.bg h3 {color:#50A0A0;}
+div.an#cp div.topo div.bg h3 a {color:#50A0A0;}
+div.an#cp div.ct p a {color:#50A0A0!important;}
+
+div.esquerda .localidade{
+	padding-right:25px;
+}
+
+
+
+
+
+
+
+
+/* rural */
+div#cp.rural{background:#E6E7E4;}
+div#cp.rural a{font:bold 11px Tahoma, Geneva, sans-serif; text-decoration:none; color:#595959 !important;}
+div#cp.rural a:hover{text-decoration:underline; color:#6E6E6E !important;}
+
+div#cp.rural div.topo{background:url("/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/rural-bg_topo.png") repeat-x 0 0; height:38px; margin:0;}
+div#cp.rural div.topo h2{background:url("/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/rural-logo-ruralbr-widget.png") no-repeat 5px 2px; width:105px; height:38px; text-indent:-9999px;}
+div#cp.rural div.topo h3{width:86px; margin-top:5px;}
+div#cp.rural div.ct{background:#FFF; border:1px solid #E6E7E4; padding-bottom: 10px;}
+div#cp.tipo-1.rural div.ct{width:198px;}
+div#cp.tipo-2.rural div.ct{width:398px;}
+div#cp.tipo-3.rural div.ct{border:none;}
+
+div#cp.rural div.ct p{color:#787878; font:10px Tahoma, Geneva, sans-serif;}
+div#cp.rural div.ct p span{font-weight:bold;}
+div#cp.rural div.ct p.agricultura span{color:#6F6C15;}
+div#cp.rural div.ct p.pecuaria span{color:#C2803D;}
+div#cp.tipo-2.rural p{width:87px; overflow:hidden;}
+
+
+div#cp.rural div.b a{padding:0 10px; border-right:1px solid #3F3F3F; border-bottom:1px solid #3F3F3F; background:#595959; color:#FFF !important; font:11px/20px Tahoma,Geneva,sans-serif; float:left; width:auto; margin-bottom:5px; clear:left;} 
+div#cp.rural div.b a:hover{ text-decoration:none; border-left:1px solid #535353; border-top:1px solid #535353; border-bottom:none; border-right:none; background:#6E6E6E;}
+div#cp.tipo-1.rural div.b a{margin:5px 0 5px 20px;}
+div#cp.tipo-2.rural div.b a{margin:6px 0 5px 138px;}
+div#cp.tipo-3.rural div.b a{margin:6px 0 5px 20px;}
+
+div#cp.rural div.b a.dot{font:bold 11px Tahoma, Geneva, sans-serif; width:auto; background:none; padding:0; border:none; color:#595959 !important;}
+div#cp.rural div.b a.dot:hover{text-decoration:underline; color:#6E6E6E !important;}
+div#cp.tipo-1.rural div.b a.dot{margin:6px 0 0 20px;}
+div#cp.tipo-2.rural div.b a.dot{margin:17px 0 0 124px;}
+
+div#cp.rural div.b, div#cp.tipo-3.rural div.b div.bg, div#cp.tipo-3.rural div.b a{height:auto;}
+div#cp.rural div.b .bg{overflow:hidden;}
+
+html.ie div#cp.rural div.b a{width:125px !important; overflow:hidden;}
+html.ie div#cp.rural div.b a.dot{width:155px !important;}
+html.ie div#cp.rural div.b .bg{padding-bottom:10px;}
+
+
+
+
+
+
+
+/* agricultura */
+div#cp.agricultura{background:#E6E7E4;}
+div#cp.agricultura a{font:bold 11px Tahoma, Geneva, sans-serif; text-decoration:none; color:#4B4A0E !important;}
+div#cp.agricultura a:hover{text-decoration:underline; color:#6F6C15 !important;}
+
+div#cp.agricultura div.topo{background:url("/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/rural-bg_topo.png") repeat-x 0 0; height:38px; margin:0;}
+div#cp.agricultura div.topo h2{background:url("/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/rural-logo-agricultura-widget.png") no-repeat 5px 2px; width:105px; height:38px; text-indent:-9999px;}
+div#cp.agricultura div.topo h3{width:86px; margin-top:5px;}
+div#cp.agricultura div.ct{background:#FFF; border:1px solid #E6E7E4; padding-bottom: 10px;}
+div#cp.tipo-1.agricultura div.ct{width:198px;}
+div#cp.tipo-2.agricultura div.ct{width:398px;}
+div#cp.tipo-3.agricultura div.ct{border:none;}
+
+div#cp.agricultura div.ct p{color:#787878; font:10px Tahoma, Geneva, sans-serif;}
+div#cp.tipo-2.agricultura p{width:87px; overflow:hidden;}
+
+
+div#cp.agricultura div.b a{padding:0 10px; border-right:1px solid #3F3F3F; border-bottom:1px solid #3F3F3F; background:#595959; color:#FFF !important; font:11px/20px Tahoma,Geneva,sans-serif; float:left; width:auto; margin-bottom:5px; clear:left;} 
+div#cp.agricultura div.b a:hover{ text-decoration:none; border-left:1px solid #535353; border-top:1px solid #535353; border-bottom:none; border-right:none; background:#6E6E6E;}
+div#cp.tipo-1.agricultura div.b a{margin:5px 0 5px 20px;}
+div#cp.tipo-2.agricultura div.b a{margin:6px 0 5px 138px;}
+div#cp.tipo-3.agricultura div.b a{margin:6px 0 5px 20px;}
+
+div#cp.agricultura div.b a.dot{font:bold 11px Tahoma, Geneva, sans-serif; width:auto; background:none; padding:0; border:none; color:#595959 !important;}
+div#cp.agricultura div.b a.dot:hover{text-decoration:underline; color:#6E6E6E !important;}
+div#cp.tipo-1.agricultura div.b a.dot{margin:6px 0 0 20px;}
+div#cp.tipo-2.agricultura div.b a.dot{margin:17px 0 0 124px;}
+
+div#cp.agricultura div.b, div#cp.tipo-3.agricultura div.b div.bg, div#cp.tipo-3.agricultura div.b a{height:auto;}
+div#cp.agricultura div.b .bg{overflow:hidden;}
+
+html.ie div#cp.agricultura div.b a{width:125px !important; overflow:hidden;}
+html.ie div#cp.agricultura div.b a.dot{width:155px !important;}
+html.ie div#cp.agricultura div.b .bg{padding-bottom:10px;}
+
+
+
+
+
+
+
+/* pecuaria */
+div#cp.pecuaria{background:#E6E7E4;}
+div#cp.pecuaria a{font:bold 11px Tahoma, Geneva, sans-serif; text-decoration:none; color:#A26A33 !important;}
+div#cp.pecuaria a:hover{text-decoration:underline; color:#C2803D !important;}
+
+div#cp.pecuaria div.topo{background:url("/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/rural-bg_topo.png") repeat-x 0 0; height:38px; margin:0;}
+div#cp.pecuaria div.topo h2{background:url("/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/rural-logo-pecuaria-widget.png") no-repeat 5px 2px; width:105px; height:38px; text-indent:-9999px;}
+div#cp.pecuaria div.topo h3{width:86px; margin-top:5px;}
+div#cp.pecuaria div.ct{background:#FFF; border:1px solid #E6E7E4; padding-bottom: 10px;}
+div#cp.tipo-1.pecuaria div.ct{width:198px;}
+div#cp.tipo-2.pecuaria div.ct{width:398px;}
+div#cp.tipo-3.pecuaria div.ct{border:none;}
+
+div#cp.pecuaria div.ct p{color:#787878; font:10px Tahoma, Geneva, sans-serif;}
+div#cp.tipo-2.pecuaria p{width:87px; overflow:hidden;}
+
+
+div#cp.pecuaria div.b a{padding:0 10px; border-right:1px solid #3F3F3F; border-bottom:1px solid #3F3F3F; background:#595959; color:#FFF !important; font:11px/20px Tahoma,Geneva,sans-serif; float:left; width:auto; margin-bottom:5px; clear:left;} 
+div#cp.pecuaria div.b a:hover{ text-decoration:none; border-left:1px solid #535353; border-top:1px solid #535353; border-bottom:none; border-right:none; background:#6E6E6E;}
+div#cp.tipo-1.pecuaria div.b a{margin:5px 0 5px 20px;}
+div#cp.tipo-2.pecuaria div.b a{margin:6px 0 5px 138px;}
+div#cp.tipo-3.pecuaria div.b a{margin:6px 0 5px 20px;}
+
+div#cp.pecuaria div.b a.dot{font:bold 11px Tahoma, Geneva, sans-serif; width:auto; background:none; padding:0; border:none; color:#595959 !important;}
+div#cp.pecuaria div.b a.dot:hover{text-decoration:underline; color:#6E6E6E !important;}
+div#cp.tipo-1.pecuaria div.b a.dot{margin:6px 0 0 20px;}
+div#cp.tipo-2.pecuaria div.b a.dot{margin:17px 0 0 124px;}
+
+div#cp.pecuaria div.b, div#cp.tipo-3.pecuaria div.b div.bg, div#cp.tipo-3.pecuaria div.b a{height:auto;}
+div#cp.pecuaria div.b .bg{overflow:hidden;}
+
+html.ie div#cp.pecuaria div.b a{width:125px !important; overflow:hidden;}
+html.ie div#cp.pecuaria div.b a.dot{width:155px !important;}
+html.ie div#cp.pecuaria div.b .bg{padding-bottom:10px;}
+
+/* tempo */
+div#cp.tempo{background:#E6E7E4;}
+div#cp.tempo a{font:bold 11px Tahoma, Geneva, sans-serif; text-decoration:none; color:#007AAA !important;}
+div#cp.tempo a:hover{text-decoration:underline; color:#009AD5 !important;}
+
+div#cp.tempo div.topo{background:url("/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/rural-bg_topo.png") repeat-x 0 0; height:38px; margin:0;}
+div#cp.tempo div.topo h2{background:url("/web/20160314114451im_/http://www.clicrbs.com.br/widgets/noticias/icon/rural-logo-tempo-widget.png") no-repeat 5px 2px; width:105px; height:38px; text-indent:-9999px;}
+div#cp.tempo div.topo h3{width:86px; margin-top:5px;}
+div#cp.tempo div.ct{background:#FFF; border:1px solid #E6E7E4; padding-bottom: 10px;}
+div#cp.tipo-1.tempo div.ct{width:198px;}
+div#cp.tipo-2.tempo div.ct{width:398px;}
+div#cp.tipo-3.tempo div.ct{border:none;}
+
+div#cp.tempo div.ct p{color:#787878; font:10px Tahoma, Geneva, sans-serif;}
+div#cp.tipo-2.tempo p{width:87px; overflow:hidden;}
+
+
+div#cp.tempo div.b a{padding:0 10px; border-right:1px solid #3F3F3F; border-bottom:1px solid #3F3F3F; background:#595959; color:#FFF !important; font:11px/20px Tahoma,Geneva,sans-serif; float:left; width:auto; margin-bottom:5px; clear:left;} 
+div#cp.tempo div.b a:hover{ text-decoration:none; border-left:1px solid #535353; border-top:1px solid #535353; border-bottom:none; border-right:none; background:#6E6E6E;}
+div#cp.tipo-1.tempo div.b a{margin:5px 0 5px 20px;}
+div#cp.tipo-2.tempo div.b a{margin:6px 0 5px 138px;}
+div#cp.tipo-3.tempo div.b a{margin:6px 0 5px 20px;}
+
+div#cp.tempo div.b a.dot{font:bold 11px Tahoma, Geneva, sans-serif; width:auto; background:none; padding:0; border:none; color:#595959 !important;}
+div#cp.tempo div.b a.dot:hover{text-decoration:underline; color:#6E6E6E !important;}
+div#cp.tipo-1.tempo div.b a.dot{margin:6px 0 0 20px;}
+div#cp.tipo-2.tempo div.b a.dot{margin:17px 0 0 124px;}
+
+div#cp.tempo div.b, div#cp.tipo-3.tempo div.b div.bg, div#cp.tipo-3.tempo div.b a{height:auto;}
+div#cp.tempo div.b .bg{overflow:hidden;}
+
+html.ie div#cp.tempo div.b a{width:125px !important; overflow:hidden;}
+html.ie div#cp.tempo div.b a.dot{width:155px !important;}
+html.ie div#cp.tempo div.b .bg{padding-bottom:10px;}
+/*
+     FILE ARCHIVED ON 11:44:51 Mar 14, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:37:10 Dec 20, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 915.868
+  exclusion.robots: 0.074
+  exclusion.robots.policy: 0.067
+  RedisCDXSource: 0.474
+  esindex: 0.007
+  LoadShardBlock: 893.683 (3)
+  PetaboxLoader3.datanode: 959.185 (5)
+  CDXLines.iter: 15.892 (3)
+  load_resource: 208.115 (2)
+  PetaboxLoader3.resolve: 102.491 (2)
+*/
