@@ -1,4 +1,4 @@
-# 📌 ViaExpressa
+# 🌐 ViaExpressa
 
 Este projeto é uma atualização de um site construído originalmente no ano 2000, com implementações e melhorias realizadas em 2013. O objetivo foi modernizar a presença online de uma empresa, Via Expressa, provedora de internet, adicionando funcionalidades interativas e otimizações de usabilidade.
 
